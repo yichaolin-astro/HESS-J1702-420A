@@ -1,0 +1,10 @@
+creator_did          = ivo://UNK.AUTH/P/HESS_J1702_420A/meta
+obs_title            = HESS_J1702_420A-meta
+dataproduct_type     = meta
+hips_frame           = equatorial
+hips_order           = 9
+hips_tile_width      = 512
+hips_release_date    = 2026-05-12T11:12Z
+progen_max_cell      = 1024x1024
+hips_version         = 1.4
+hips_builder         = Aladin/HipsGen v12.656
